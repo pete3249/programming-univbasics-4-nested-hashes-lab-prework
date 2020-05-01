@@ -101,7 +101,8 @@ def changing_alan
           :languages => ["C"]
         }
      }
-  programmer_hash[:alan_kay][:known_for] = GUI
+  alans_new_info = "GUI"
+  programmer_hash[:alan_kay][:known_for] = alans_new_info
      
      #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
      #alans_new_info = "GUI"
